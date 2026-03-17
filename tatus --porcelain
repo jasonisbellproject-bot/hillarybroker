@@ -1,0 +1,16 @@
+warning: in the working copy of 'app/dashboard/deposit/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/dashboard/investment/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/dashboard/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/dashboard/staking/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/dashboard/transactions/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/dashboard/withdraw/page.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app/globals.css', LF will be replaced by CRLF the next time Git touches it
+app/contact/page.tsx
+app/dashboard/deposit/page.tsx
+app/dashboard/investment/page.tsx
+app/dashboard/page.tsx
+app/dashboard/profile/page.tsx
+app/dashboard/staking/page.tsx
+app/dashboard/transactions/page.tsx
+app/dashboard/withdraw/page.tsx
+app/globals.css
