@@ -22,7 +22,7 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{
             __html: `
               var _smartsupp = _smartsupp || {};
-              _smartsupp.key = '';
+              _smartsupp.key = '3616b79e6d279db1042c845de1f26f0d1dd9e197';
               window.smartsupp||(function(d) {
                 var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
                 s=d.getElementsByTagName('script')[0];c=d.createElement('script');
