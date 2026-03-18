@@ -55,19 +55,19 @@ const teamMembers = [
   {
     name: "Craig-Cornelius",
     role: "Chairman, President and Chief Executive Officer",
-    company: "Clearway Capital, Inc.",
+    company: "Fidelity Assured, Inc.",
     image: "https://res.cloudinary.com/dxufnlb6q/image/upload/v1755784567/Craig-Cornelius_clearway-energy_uneip8.jpg"
   },
   {
     name: "Steve-Ryder",
     role: "President and Chief Executive Officer",
-    company: "Clearway Capital Resources, LLC",
+    company: "Fidelity Assured Resources, LLC",
     image: "https://res.cloudinary.com/dxufnlb6q/image/upload/v1755784567/Steve-Ryder_clearway-energy_tqfx5z.jpg"
   },
   {
     name: "Jennifer-Hein",
     role: "Executive Vice President Chief Risk Officer",
-    company: "Clearway Capital, Inc.",
+    company: "Fidelity Assured, Inc.",
     image: "https://res.cloudinary.com/dxufnlb6q/image/upload/v1755784566/Jennifer-Hein_clearway-energy_j3dxzw.jpg"
   }
 ];
@@ -123,7 +123,7 @@ export default function AboutPage() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center space-x-2">
               <TrendingUp className="w-8 h-8 text-green-400" />
-              <span className="text-xl font-bold">Clearway Capital</span>
+              <span className="text-xl font-bold">Fidelity Assured</span>
             </div>
             <nav className="hidden md:flex items-center space-x-8">
               <Link href="/" className="text-slate-300 hover:text-white transition-colors">Home</Link>
@@ -148,7 +148,7 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center space-y-8">
             <Badge className="bg-gradient-to-r from-green-500 to-emerald-500 text-black px-4 py-2 backdrop-blur-sm font-semibold">
-              About Clearway Capital
+              About Fidelity Assured
             </Badge>
             <h1 className="text-5xl lg:text-6xl font-bold leading-tight">
               Leading the Future of{" "}
@@ -210,7 +210,7 @@ export default function AboutPage() {
               Energizing the world through <span className="bg-gradient-to-r from-green-400 via-emerald-400 to-green-300 bg-clip-text text-transparent">financial innovation</span>
             </h2>
             <p className="text-xl text-slate-300 max-w-4xl mx-auto leading-relaxed">
-              Welcome to Clearway Capital, where we're dedicated to revolutionizing the way the world approaches finance. 
+              Welcome to Fidelity Assured, where we're dedicated to revolutionizing the way the world approaches finance. 
               With a relentless focus on innovation and a commitment to empowering individuals and businesses alike, 
               we strive to energize the global economy through cutting-edge financial solutions. 
               Join us as we pave the way for a brighter, more inclusive financial future for all.
@@ -232,12 +232,12 @@ export default function AboutPage() {
             <CardContent className="p-8">
               <h3 className="text-3xl font-bold mb-6 text-center">Who we are</h3>
               <p className="text-slate-300 text-lg leading-relaxed max-w-4xl mx-auto">
-                Clearway Capital is a Fortune 200 company shaping the future of finance through innovation and investments 
+                Fidelity Assured is a Fortune 200 company shaping the future of finance through innovation and investments 
                 in disruptive technologies throughout North America. With our roots tracing back nearly 100 years, 
-                Clearway Capital has been a trailblazer in the financial industry since our inception. 
+                Fidelity Assured has been a trailblazer in the financial industry since our inception. 
                 From servicing 76,000 customers to now providing innovative, secure, and reliable financial services 
                 to more than 12 million people, our business has undergone a remarkable evolution. 
-                Since our humble beginnings nearly a century ago, Clearway Capital has been pioneering new technologies, 
+                Since our humble beginnings nearly a century ago, Fidelity Assured has been pioneering new technologies, 
                 each marking crucial achievements in the financial landscape.
               </p>
             </CardContent>
@@ -249,7 +249,7 @@ export default function AboutPage() {
       <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold mb-4">Why Choose Clearway Capital?</h2>
+            <h2 className="text-4xl font-bold mb-4">Why Choose Fidelity Assured?</h2>
             <p className="text-xl text-slate-300 max-w-2xl mx-auto">
               Experience the difference with our cutting-edge features and unparalleled service
             </p>
@@ -310,7 +310,7 @@ export default function AboutPage() {
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold mb-4">Meet Our Leadership Team</h2>
             <p className="text-xl text-slate-300 max-w-2xl mx-auto">
-              The experienced professionals leading Clearway Capital's mission
+              The experienced professionals leading Fidelity Assured's mission
             </p>
           </div>
           
@@ -372,7 +372,7 @@ export default function AboutPage() {
             <CardContent className="p-12 text-center">
               <h2 className="text-4xl font-bold mb-4">Ready to Start Your Investment Journey?</h2>
               <p className="text-xl text-slate-300 mb-8 max-w-2xl mx-auto">
-                Join thousands of investors who trust Clearway Capital for their financial future
+                Join thousands of investors who trust Fidelity Assured for their financial future
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Button asChild size="lg" className="bg-gradient-to-r from-green-500 to-emerald-500 hover:from-green-600 hover:to-emerald-600 text-lg px-8 py-4 backdrop-blur-sm text-black font-semibold">

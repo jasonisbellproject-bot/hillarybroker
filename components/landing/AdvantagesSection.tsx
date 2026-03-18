@@ -60,7 +60,7 @@ export default function AdvantagesSection() {
             OUR PLATFORM ADVANTAGES
           </span>
           <h2 className="text-4xl md:text-5xl font-bold mb-4 text-gradient">
-            Why Choose Clearway Capital?
+            Why Choose Fidelity Assured?
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Discover the unique benefits that set us apart from the competition.

@@ -107,7 +107,7 @@ function SignupContent() {
           {/* Header */}
           <div className="text-center mb-8">
             <Link href="/" className="inline-block mb-4">
-              <h1 className="text-3xl font-bold text-gradient">Clearway Capital</h1>
+              <h1 className="text-3xl font-bold text-gradient">Fidelity Assured</h1>
             </Link>
             <h2 className="text-2xl font-semibold text-white mb-2">Create Account</h2>
             <p className="text-gray-300">Join thousands of users earning passive income</p>

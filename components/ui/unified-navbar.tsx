@@ -71,7 +71,7 @@ export default function UnifiedNavBar({ isLandingPage = false }: NavBarProps) {
             </div>
             <div className="flex flex-col">
               <span className="text-xl lg:text-2xl font-bold bg-gradient-to-r from-yellow-400 to-amber-500 bg-clip-text text-transparent">
-                Clearway Capital
+                Fidelity Assured
               </span>
               <span className="text-xs text-slate-400 hidden sm:block">Investment Platform</span>
             </div>

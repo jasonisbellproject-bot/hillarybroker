@@ -22,7 +22,7 @@ export default function PrivacyPage() {
               <div className="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center">
                 <TrendingUp className="w-5 h-5 text-white" />
               </div>
-              <span className="text-xl font-bold">Clearway Capital</span>
+              <span className="text-xl font-bold">Fidelity Assured</span>
             </div>
             <nav className="hidden md:flex items-center space-x-8">
               <Link href="/" className="text-slate-300 hover:text-white">Home</Link>
@@ -82,7 +82,7 @@ export default function PrivacyPage() {
                 </div>
                 <div className="space-y-4 text-slate-300">
                   <p>
-                    At Clearway Capital, we take your privacy seriously. This Privacy Policy explains how we 
+                    At Fidelity Assured, we take your privacy seriously. This Privacy Policy explains how we 
                     collect, use, disclose, and safeguard your information when you use our trading platform 
                     and services.
                   </p>
@@ -478,7 +478,7 @@ export default function PrivacyPage() {
                 <div className="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center">
                   <TrendingUp className="w-5 h-5 text-white" />
                 </div>
-                <span className="text-xl font-bold">Clearway Capital</span>
+                <span className="text-xl font-bold">Fidelity Assured</span>
               </div>
               <p className="text-slate-400">
                 Leading the future of digital investment with secure, transparent, 
@@ -518,7 +518,7 @@ export default function PrivacyPage() {
           </div>
           
           <div className="border-t border-slate-700 mt-8 pt-8 text-center text-slate-400">
-            <p>&copy; 2024 Clearway Capital. All rights reserved.</p>
+            <p>&copy; 2024 Fidelity Assured. All rights reserved.</p>
           </div>
         </div>
       </footer>

@@ -3,7 +3,7 @@ import './globals.css'
 import { Toaster } from '@/components/ui/toaster'
 
 export const metadata: Metadata = {
-  title: 'Clearway Capital - Earn More with Staking & Rewards',
+  title: 'Fidelity Assured - Earn More with Staking & Rewards',
   description: 'Join the future of decentralized finance. Stake, earn rewards, and grow your wealth with our advanced platform.',
   generator: 'v0.dev',
 }

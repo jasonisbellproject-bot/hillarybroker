@@ -6,7 +6,7 @@ const awards = [
   {
     icon: <Award className="w-8 h-8 text-yellow-400" />, 
     title: "Century International Quality Gold ERA Award",
-          description: "The prestigious award was given to CLEARWAY CAPITAL in recognition of our outstanding commitment to Quality and Excellence, particularly in the realm of Customer Satisfaction."
+          description: "The prestigious award was given to Fidelity Assured in recognition of our outstanding commitment to Quality and Excellence, particularly in the realm of Customer Satisfaction."
   },
   {
     icon: <Star className="w-8 h-8 text-yellow-400" />, 
@@ -16,22 +16,22 @@ const awards = [
   {
     icon: <ShieldCheck className="w-8 h-8 text-yellow-400" />, 
     title: "Most Reliable Binary Options Broker",
-    description: "Our first priority is the security of our client's funds. This was recognized by the experts at MasterForex-V, who awarded CLEARWAY CAPITAL the title of Most Trusted Binary Options Broker."
+    description: "Our first priority is the security of our client's funds. This was recognized by the experts at MasterForex-V, who awarded Fidelity Assured the title of Most Trusted Binary Options Broker."
   },
   {
     icon: <Smartphone className="w-8 h-8 text-yellow-400" />, 
     title: "The intelligent trading app for binary options",
-    description: "The Mobile Star Awards is the largest annual mobile innovations and software awards program in the world. In 2016, the organization honored the CLEARWAY CAPITAL trading app as the best in its category, praising its efficiency and impeccable design."
+    description: "The Mobile Star Awards is the largest annual mobile innovations and software awards program in the world. In 2016, the organization honored the Fidelity Assured trading app as the best in its category, praising its efficiency and impeccable design."
   },
   {
     icon: <Trophy className="w-8 h-8 text-yellow-400" />, 
     title: "World's Leading Binary Options Broker",
-    description: "At the same MasterForex-V CLEARWAY CAPITAL was awarded for being the World's Leading Binary Options Broker. The perfection in our service and product was recognized by the experts of the conference in 2014."
+    description: "At the same MasterForex-V Fidelity Assured was awarded for being the World's Leading Binary Options Broker. The perfection in our service and product was recognized by the experts of the conference in 2014."
   },
   {
     icon: <TrendingUp className="w-8 h-8 text-yellow-400" />, 
     title: "Fastest growing binary option brand",
-    description: "Global Brands Magazine, Britain's reputable brand observer, awarded CLEARWAY CAPITAL along with a number of outstanding European brands — an achievement worth working for."
+    description: "Global Brands Magazine, Britain's reputable brand observer, awarded Fidelity Assured along with a number of outstanding European brands — an achievement worth working for."
   },
 ];
 
@@ -53,7 +53,7 @@ export default function AwardsSection() {
             Recognized for Excellence & Innovation
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            CLEARWAY CAPITAL is proud to be recognized by leading organizations for our commitment to quality, innovation, and customer satisfaction.
+            Fidelity Assured is proud to be recognized by leading organizations for our commitment to quality, innovation, and customer satisfaction.
           </p>
         </motion.div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

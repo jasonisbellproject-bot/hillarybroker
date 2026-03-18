@@ -27,7 +27,7 @@ export default function CTASection() {
                 <Link 
                   href="/signup" 
                   className="btn-gradient px-8 py-4 rounded-lg text-lg font-semibold transition-all duration-300 hover:scale-105 inline-flex items-center gap-2"
-                  aria-label="Sign up to start earning with Clearway Capital"
+                  aria-label="Sign up to start earning with Fidelity Assured"
                 >
                   Get Started Free
                   <ArrowRight className="w-5 h-5" />

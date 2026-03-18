@@ -49,7 +49,7 @@ export default function NavBar() {
             </div>
             <div className="flex flex-col">
               <span className="text-xl lg:text-2xl font-bold bg-gradient-to-r from-green-400 to-green-500 bg-clip-text text-transparent">
-                Clearway Capital
+                Fidelity Assured
               </span>
               <span className="text-xs text-muted-foreground hidden sm:block">DeFi Platform</span>
             </div>

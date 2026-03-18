@@ -160,7 +160,7 @@ function ResetPasswordForm() {
             {/* Success Header */}
             <div className="text-center mb-8">
               <CheckCircle className="w-16 h-16 text-green-400 mx-auto mb-4" />
-              <h1 className="text-3xl font-bold text-gradient">Clearway Capital</h1>
+              <h1 className="text-3xl font-bold text-gradient">Fidelity Assured</h1>
               <h2 className="text-2xl font-semibold text-white mb-2">Password Reset Successfully</h2>
               <p className="text-gray-300">Your password has been updated successfully</p>
             </div>
@@ -199,7 +199,7 @@ function ResetPasswordForm() {
             {/* Error Header */}
             <div className="text-center mb-8">
               <AlertCircle className="w-16 h-16 text-red-400 mx-auto mb-4" />
-              <h1 className="text-3xl font-bold text-gradient">Clearway Capital</h1>
+              <h1 className="text-3xl font-bold text-gradient">Fidelity Assured</h1>
               <h2 className="text-2xl font-semibold text-white mb-2">Invalid Reset Link</h2>
               <p className="text-gray-300">The password reset link is invalid or has expired</p>
             </div>
@@ -243,7 +243,7 @@ function ResetPasswordForm() {
           {/* Header */}
           <div className="text-center mb-8">
             <Link href="/" className="inline-block mb-4">
-              <h1 className="text-3xl font-bold text-gradient">Clearway Capital</h1>
+              <h1 className="text-3xl font-bold text-gradient">Fidelity Assured</h1>
             </Link>
             <h2 className="text-2xl font-semibold text-white mb-2">Reset Your Password</h2>
             <p className="text-gray-300">Enter your new password below</p>

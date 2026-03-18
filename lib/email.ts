@@ -17,17 +17,17 @@ const transporter = nodemailer.createTransport(emailConfig);
 // Email templates
 const emailTemplates = {
   welcome: {
-    subject: 'Welcome to Clearway Capital!',
+    subject: 'Welcome to Fidelity Assured!',
     html: (name: string) => `
       <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
         <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; text-align: center;">
-          <h1 style="margin: 0; font-size: 28px;">Welcome to Clearway Capital!</h1>
+          <h1 style="margin: 0; font-size: 28px;">Welcome to Fidelity Assured!</h1>
           <p style="margin: 10px 0 0 0; font-size: 16px;">Your account has been created successfully</p>
         </div>
         <div style="padding: 30px; background: #f8f9fa;">
           <h2 style="color: #333; margin-bottom: 20px;">Hello ${name}!</h2>
           <p style="color: #666; line-height: 1.6; margin-bottom: 20px;">
-            Welcome to Clearway Capital! Your account has been created successfully and you're now ready to start earning with our advanced staking and rewards platform.
+            Welcome to Fidelity Assured! Your account has been created successfully and you're now ready to start earning with our advanced staking and rewards platform.
           </p>
           <div style="background: #e8f5e8; border-left: 4px solid #28a745; padding: 15px; margin: 20px 0;">
             <h3 style="color: #28a745; margin: 0 0 10px 0;">🎉 What's Next?</h3>
@@ -46,7 +46,7 @@ const emailTemplates = {
           </div>
         </div>
         <div style="background: #333; color: white; padding: 20px; text-align: center; font-size: 12px;">
-          <p style="margin: 0;">© 2024 Clearway Capital. All rights reserved.</p>
+          <p style="margin: 0;">© 2024 Fidelity Assured. All rights reserved.</p>
         </div>
       </div>
     `
@@ -63,7 +63,7 @@ const emailTemplates = {
         <div style="padding: 30px; background: #f8f9fa;">
           <h2 style="color: #333; margin-bottom: 20px;">Hello ${name}!</h2>
           <p style="color: #666; line-height: 1.6; margin-bottom: 20px;">
-            Great news! You've earned a referral bonus for successfully referring a new user to Clearway Capital.
+            Great news! You've earned a referral bonus for successfully referring a new user to Fidelity Assured.
           </p>
           <div style="background: #d4edda; border: 1px solid #c3e6cb; border-radius: 5px; padding: 20px; margin: 20px 0; text-align: center;">
             <h3 style="color: #155724; margin: 0 0 10px 0;">💰 Bonus Amount</h3>
@@ -82,7 +82,7 @@ const emailTemplates = {
           </div>
         </div>
         <div style="background: #333; color: white; padding: 20px; text-align: center; font-size: 12px;">
-          <p style="margin: 0;">© 2024 Clearway Capital. All rights reserved.</p>
+          <p style="margin: 0;">© 2024 Fidelity Assured. All rights reserved.</p>
         </div>
       </div>
     `
@@ -119,7 +119,7 @@ const emailTemplates = {
           </div>
         </div>
         <div style="background: #333; color: white; padding: 20px; text-align: center; font-size: 12px;">
-          <p style="margin: 0;">© 2024 Clearway Capital. All rights reserved.</p>
+          <p style="margin: 0;">© 2024 Fidelity Assured. All rights reserved.</p>
         </div>
       </div>
     `
@@ -156,7 +156,7 @@ const emailTemplates = {
           </div>
         </div>
         <div style="background: #333; color: white; padding: 20px; text-align: center; font-size: 12px;">
-          <p style="margin: 0;">© 2024 Clearway Capital. All rights reserved.</p>
+          <p style="margin: 0;">© 2024 Fidelity Assured. All rights reserved.</p>
         </div>
       </div>
     `
@@ -196,7 +196,7 @@ const emailTemplates = {
           </div>
         </div>
         <div style="background: #333; color: white; padding: 20px; text-align: center; font-size: 12px;">
-          <p style="margin: 0;">© 2024 Clearway Capital. All rights reserved.</p>
+          <p style="margin: 0;">© 2024 Fidelity Assured. All rights reserved.</p>
         </div>
       </div>
     `
@@ -231,24 +231,24 @@ const emailTemplates = {
           </div>
         </div>
         <div style="background: #333; color: white; padding: 20px; text-align: center; font-size: 12px;">
-          <p style="margin: 0;">© 2024 Clearway Capital. All rights reserved.</p>
+          <p style="margin: 0;">© 2024 Fidelity Assured. All rights reserved.</p>
         </div>
       </div>
     `
   },
 
   passwordReset: {
-    subject: '🔐 Password Reset Request - Clearway Capital',
+    subject: '🔐 Password Reset Request - Fidelity Assured',
     html: (name: string) => `
       <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
         <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 30px; text-align: center;">
           <h1 style="margin: 0; font-size: 28px;">🔐 Password Reset Request</h1>
-          <p style="margin: 10px 0 0 0; font-size: 16px;">Reset your Clearway Capital account password</p>
+          <p style="margin: 10px 0 0 0; font-size: 16px;">Reset your Fidelity Assured account password</p>
         </div>
         <div style="padding: 30px; background: #f8f9fa;">
           <h2 style="color: #333; margin-bottom: 20px;">Hello ${name}!</h2>
           <p style="color: #666; line-height: 1.6; margin-bottom: 20px;">
-            We received a request to reset your password for your Clearway Capital account. If you didn't make this request, you can safely ignore this email.
+            We received a request to reset your password for your Fidelity Assured account. If you didn't make this request, you can safely ignore this email.
           </p>
           <div style="background: #e8f5e8; border-left: 4px solid #28a745; padding: 15px; margin: 20px 0;">
             <h3 style="color: #28a745; margin: 0 0 10px 0;">⚠️ Security Notice</h3>
@@ -274,7 +274,7 @@ const emailTemplates = {
           </div>
         </div>
         <div style="background: #333; color: white; padding: 20px; text-align: center; font-size: 12px;">
-          <p style="margin: 0;">© 2024 Clearway Capital. All rights reserved.</p>
+          <p style="margin: 0;">© 2024 Fidelity Assured. All rights reserved.</p>
         </div>
       </div>
     `
@@ -321,7 +321,7 @@ const emailTemplates = {
           </div>
         </div>
         <div style="background: #333; color: white; padding: 20px; text-align: center; font-size: 12px;">
-          <p style="margin: 0;">© 2024 Clearway Capital. All rights reserved.</p>
+          <p style="margin: 0;">© 2024 Fidelity Assured. All rights reserved.</p>
         </div>
       </div>
     `
@@ -368,7 +368,7 @@ const emailTemplates = {
           </div>
         </div>
         <div style="background: #333; color: white; padding: 20px; text-align: center; font-size: 12px;">
-          <p style="margin: 0;">© 2024 Clearway Capital. All rights reserved.</p>
+          <p style="margin: 0;">© 2024 Fidelity Assured. All rights reserved.</p>
         </div>
       </div>
     `
@@ -425,7 +425,7 @@ const emailTemplates = {
             </div>
           </div>
           <div style="background: #333; color: white; padding: 20px; text-align: center; font-size: 12px;">
-            <p style="margin: 0;">© 2024 Clearway Capital. All rights reserved.</p>
+            <p style="margin: 0;">© 2024 Fidelity Assured. All rights reserved.</p>
           </div>
         </div>
       `
@@ -481,7 +481,7 @@ const emailTemplates = {
             </div>
           </div>
           <div style="background: #333; color: white; padding: 20px; text-align: center; font-size: 12px;">
-            <p style="margin: 0;">© 2024 Clearway Capital. All rights reserved.</p>
+            <p style="margin: 0;">© 2024 Fidelity Assured. All rights reserved.</p>
           </div>
         </div>
       `
@@ -529,7 +529,7 @@ const emailTemplates = {
             </div>
           </div>
           <div style="background: #333; color: white; padding: 20px; text-align: center; font-size: 12px;">
-            <p style="margin: 0;">© 2024 Clearway Capital. All rights reserved.</p>
+            <p style="margin: 0;">© 2024 Fidelity Assured. All rights reserved.</p>
           </div>
         </div>
       `

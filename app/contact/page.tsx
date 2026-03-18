@@ -39,7 +39,7 @@ export default function ContactPage() {
                   <TrendingUp className="w-5 h-5 text-white" />
                 </div>
                 <span className="text-xl font-bold bg-gradient-to-r from-green-400 to-emerald-400 bg-clip-text text-transparent">
-                  Clearway Capital
+                  Fidelity Assured
                 </span>
               </div>
             </div>
@@ -319,7 +319,7 @@ export default function ContactPage() {
                 Ready to Start Your Investment Journey?
               </h3>
               <p className="text-gray-300 text-lg mb-6">
-                Join thousands of investors who trust Clearway Capital with their financial future.
+                Join thousands of investors who trust Fidelity Assured with their financial future.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Link href="/signup">

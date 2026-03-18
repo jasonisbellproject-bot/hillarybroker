@@ -1,4 +1,4 @@
-# Clearway Capital Investment Platform
+# Fidelity Assured Investment Platform
 
 A modern investment platform built with Next.js, Supabase, and Tailwind CSS.
 

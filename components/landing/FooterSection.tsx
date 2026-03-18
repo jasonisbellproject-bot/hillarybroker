@@ -6,7 +6,7 @@ export default function FooterSection() {
     <footer className="py-12 px-4 sm:px-6 lg:px-8 border-t border-white/10">
       <div className="max-w-7xl mx-auto">
         <div className="text-center">
-          <h3 className="text-2xl font-bold text-gradient mb-4">Clearway Capital</h3>
+          <h3 className="text-2xl font-bold text-gradient mb-4">Fidelity Assured</h3>
           <p className="text-muted-foreground mb-6">
             The future of decentralized finance is here
           </p>

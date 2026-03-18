@@ -101,7 +101,7 @@ export default function ServicesPage() {
                 <Rocket className="w-5 h-5 text-black" />
               </div>
               <span className="text-xl font-bold bg-gradient-to-r from-green-400 to-emerald-400 bg-clip-text text-transparent">
-                Clearway Capital
+                Fidelity Assured
               </span>
             </div>
             <nav className="hidden md:flex items-center space-x-8">
@@ -273,7 +273,7 @@ export default function ServicesPage() {
                   <Rocket className="w-5 h-5 text-black" />
                 </div>
                 <span className="text-xl font-bold bg-gradient-to-r from-green-400 to-emerald-400 bg-clip-text text-transparent">
-                  Clearway Capital
+                  Fidelity Assured
                 </span>
               </div>
               <p className="text-slate-400">
@@ -314,7 +314,7 @@ export default function ServicesPage() {
           </div>
           
           <div className="border-t border-slate-700 mt-8 pt-8 text-center text-slate-400">
-            <p>&copy; 2024 Clearway Capital. All rights reserved.</p>
+            <p>&copy; 2024 Fidelity Assured. All rights reserved.</p>
           </div>
         </div>
       </footer>

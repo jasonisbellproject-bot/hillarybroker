@@ -34,19 +34,19 @@ const teamMembers = [
   {
     name: "Craig-Cornelius",
     role: "Chairman, President and Chief Executive Officer",
-    company: "Clearway Capital, Inc.",
+    company: "Fidelity Assured, Inc.",
     image: "https://res.cloudinary.com/dxufnlb6q/image/upload/v1755784567/Craig-Cornelius_clearway-energy_uneip8.jpg"
   },
   {
     name: "Steve-Ryder",
     role: "President and Chief Executive Officer",
-    company: "Clearway Capital Resources, LLC",
+    company: "Fidelity Assured Resources, LLC",
     image: "https://res.cloudinary.com/dxufnlb6q/image/upload/v1755784567/Steve-Ryder_clearway-energy_tqfx5z.jpg"
   },
   {
     name: "Jennifer-Hein",
     role: "Executive Vice President Chief Risk Officer",
-    company: "Clearway Capital, Inc.",
+    company: "Fidelity Assured, Inc.",
     image: "https://res.cloudinary.com/dxufnlb6q/image/upload/v1755784566/Jennifer-Hein_clearway-energy_j3dxzw.jpg"
   }
 ];
@@ -129,7 +129,7 @@ export default function AboutUsSection() {
             Energizing the world through <span className="text-gradient">financial innovation</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-            Welcome to Clearway Capital, where we're dedicated to revolutionizing the way the world approaches finance. 
+            Welcome to Fidelity Assured, where we're dedicated to revolutionizing the way the world approaches finance. 
             With a relentless focus on innovation and a commitment to empowering individuals and businesses alike, 
             we strive to energize the global economy through cutting-edge financial solutions. 
             Join us as we pave the way for a brighter, more inclusive financial future for all.
@@ -191,12 +191,12 @@ export default function AboutUsSection() {
           <div className="glass-card p-8">
             <h3 className="text-3xl font-bold mb-6 text-center text-foreground">Who we are</h3>
             <p className="text-muted-foreground text-lg leading-relaxed max-w-4xl mx-auto">
-              Clearway Capital is a Fortune 200 company shaping the future of finance through innovation and investments 
+              Fidelity Assured is a Fortune 200 company shaping the future of finance through innovation and investments 
               in disruptive technologies throughout North America. With our roots tracing back nearly 100 years, 
-              Clearway Capital has been a trailblazer in the financial industry since our inception. 
+              Fidelity Assured has been a trailblazer in the financial industry since our inception. 
               From servicing 76,000 customers to now providing innovative, secure, and reliable financial services 
               to more than 12 million people, our business has undergone a remarkable evolution. 
-              Since our humble beginnings nearly a century ago, Clearway Capital has been pioneering new technologies, 
+              Since our humble beginnings nearly a century ago, Fidelity Assured has been pioneering new technologies, 
               each marking crucial achievements in the financial landscape.
             </p>
           </div>

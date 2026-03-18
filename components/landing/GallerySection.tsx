@@ -75,7 +75,7 @@ export default function GallerySection() {
             📸 Our Gallery
           </span>
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
-            Behind the Scenes at <span className="text-green-400">Clearway Capital</span>
+            Behind the Scenes at <span className="text-green-400">Fidelity Assured</span>
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
             Take a look at our team, operations, and the innovative environment that drives our success in the financial markets.

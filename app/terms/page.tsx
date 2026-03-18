@@ -21,7 +21,7 @@ export default function TermsPage() {
               <div className="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center">
                 <TrendingUp className="w-5 h-5 text-white" />
               </div>
-              <span className="text-xl font-bold">Clearway Capital</span>
+              <span className="text-xl font-bold">Fidelity Assured</span>
             </div>
             <nav className="hidden md:flex items-center space-x-8">
               <Link href="/" className="text-slate-300 hover:text-white">Home</Link>
@@ -81,7 +81,7 @@ export default function TermsPage() {
                 </div>
                 <div className="space-y-4 text-slate-300">
                   <p>
-                    These Terms of Service ("Terms") govern your use of the Clearway Capital trading platform 
+                    These Terms of Service ("Terms") govern your use of the Fidelity Assured trading platform 
                     and services. By accessing or using our platform, you agree to be bound by these Terms 
                     and all applicable laws and regulations.
                   </p>
@@ -225,7 +225,7 @@ export default function TermsPage() {
                 <h2 className="text-2xl font-bold mb-6">7. Limitation of Liability</h2>
                 <div className="space-y-4 text-slate-300">
                   <p>
-                    To the maximum extent permitted by law, Clearway Capital shall not be liable for any 
+                    To the maximum extent permitted by law, Fidelity Assured shall not be liable for any 
                     indirect, incidental, special, consequential, or punitive damages, including but 
                     not limited to loss of profits, data, or use.
                   </p>
@@ -326,7 +326,7 @@ export default function TermsPage() {
                 <div className="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center">
                   <TrendingUp className="w-5 h-5 text-white" />
                 </div>
-                <span className="text-xl font-bold">Clearway Capital</span>
+                <span className="text-xl font-bold">Fidelity Assured</span>
               </div>
               <p className="text-slate-400">
                 Leading the future of digital investment with secure, transparent, 
@@ -366,7 +366,7 @@ export default function TermsPage() {
           </div>
           
           <div className="border-t border-slate-700 mt-8 pt-8 text-center text-slate-400">
-            <p>&copy; 2024 Clearway Capital. All rights reserved.</p>
+            <p>&copy; 2024 Fidelity Assured. All rights reserved.</p>
           </div>
         </div>
       </footer>

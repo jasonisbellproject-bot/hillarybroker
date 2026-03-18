@@ -59,7 +59,7 @@ export default function ForgotPasswordPage() {
             {/* Success Header */}
             <div className="text-center mb-8">
               <CheckCircle className="w-16 h-16 text-green-400 mx-auto mb-4" />
-              <h1 className="text-3xl font-bold text-gradient">Clearway Capital</h1>
+              <h1 className="text-3xl font-bold text-gradient">Fidelity Assured</h1>
               <h2 className="text-2xl font-semibold text-white mb-2">Check Your Email</h2>
               <p className="text-gray-300">We've sent a password reset link to your email address</p>
             </div>
@@ -109,7 +109,7 @@ export default function ForgotPasswordPage() {
           {/* Header */}
           <div className="text-center mb-8">
             <Link href="/" className="inline-block mb-4">
-              <h1 className="text-3xl font-bold text-gradient">Clearway Capital</h1>
+              <h1 className="text-3xl font-bold text-gradient">Fidelity Assured</h1>
             </Link>
             <h2 className="text-2xl font-semibold text-white mb-2">Forgot Password?</h2>
             <p className="text-gray-300">Enter your email to receive a password reset link</p>

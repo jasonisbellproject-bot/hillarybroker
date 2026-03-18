@@ -194,7 +194,7 @@ export async function POST(request: NextRequest) {
       .from('notifications')
       .insert({
         user_id: authData.user.id,
-        title: 'Welcome to Clearway Capital!',
+        title: 'Welcome to Fidelity Assured!',
         message: `Welcome ${firstName}! Your account has been created successfully. Start earning with our staking pools!`,
         type: 'success'
       });

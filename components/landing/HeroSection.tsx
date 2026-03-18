@@ -189,14 +189,14 @@ export default function HeroSection() {
               href="/signup" 
               className="flex-1 bg-gradient-to-r from-green-500 to-emerald-500 hover:from-green-600 hover:to-emerald-600 text-white px-8 py-4 rounded-xl text-lg font-semibold transition-all duration-300 shadow-lg shadow-green-500/30 border border-green-400/30 backdrop-blur-md focus:outline-none focus:ring-2 focus:ring-green-500"
               style={{ boxShadow: '0 2px 16px 0 rgba(34,197,94,0.15)' }}
-              aria-label="Sign up to start earning with Clearway Capital"
+              aria-label="Sign up to start earning with Fidelity Assured"
             >
               Get Started
             </Link>
             <Link 
               href="/services" 
               className="flex-1 bg-gray-800/80 hover:bg-gray-800 text-white px-8 py-4 rounded-xl text-lg font-semibold transition-all duration-300 border border-green-500/30 backdrop-blur-md focus:outline-none focus:ring-2 focus:ring-green-500"
-              aria-label="Learn more about Clearway Capital services"
+              aria-label="Learn more about Fidelity Assured services"
             >
               Learn More
             </Link>
