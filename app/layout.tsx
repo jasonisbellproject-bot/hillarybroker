@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import './globals.css'
 import { Toaster } from '@/components/ui/toaster'
+import { Preloader } from '@/components/preloader'
 
 export const metadata: Metadata = {
   title: 'Fidelity Assured - Earn More with Staking & Rewards',
@@ -37,6 +38,7 @@ export default function RootLayout({
         </noscript>
       </head>
       <body suppressHydrationWarning>
+        <Preloader />
         {children}
         <Toaster />
       </body>
